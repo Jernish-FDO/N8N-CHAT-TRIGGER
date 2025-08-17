@@ -79,7 +79,7 @@ body {
     bottom: 80px;
     right: 0;
     width: 400px;
-    height: 650px;
+    height: 100vh;
     background: var(--background);
     border-radius: var(--border-radius);
     box-shadow: var(--shadow-lg);
