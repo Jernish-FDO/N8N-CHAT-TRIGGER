@@ -9,7 +9,6 @@
 
 **An advanced n8n workflow automation system that triggers complex workflows through chat messages**
 
-[🚀 Quick Start](#-quick-start) • [📖 Documentation](#-documentation) • [🛠️ Examples](#-workflow-examples) • [🤝 Contributing](#-contributing)
 
 </div>
 
@@ -20,12 +19,6 @@
 - [✨ Features](#-features)
 - [📋 Prerequisites](#-prerequisites)
 - [🚀 Quick Start](#-quick-start)
-- [⚙️ Configuration](#️-configuration)
-- [🛠️ Workflow Examples](#️-workflow-examples)
-- [🔧 API Reference](#-api-reference)
-- [📱 Supported Platforms](#-supported-platforms)
-- [🐛 Troubleshooting](#-troubleshooting)
-- [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
 ## ✨ Features
