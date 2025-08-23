@@ -97,7 +97,8 @@ text
 ### 1. Installation
 
 Clone the repository
-git clone https://github.com/Jernish-FDO/N8N-CHAT-TRIGGER.git
+```git clone https://github.com/Jernish-FDO/N8N-CHAT-TRIGGER.git```
+
 cd N8N-CHAT-TRIGGER
 
 Install n8n globally
