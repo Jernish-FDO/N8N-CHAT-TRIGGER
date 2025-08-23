@@ -71,13 +71,16 @@ git clone https://github.com/Jernish-FDO/N8N-CHAT-TRIGGER.git
 cd N8N-CHAT-TRIGGER
 ```
 
+
 Install n8n globally
 ```
 npm install -g n8n
 ```
 
 Install project dependencies
+```
 npm install
+```
 
 Start n8n
 ```
